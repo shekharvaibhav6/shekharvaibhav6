@@ -12,9 +12,9 @@ I'm actively looking for **remote work, freelance projects, and full-time roles*
 
 **Backend** — Java · Spring Boot · Spring MVC · Microservices · REST APIs · Spring AI  
 **Frontend** — React.js · HTML · CSS · JavaScript · Tailwind CSS 
-**Devops** - Linux · Ansible · AWS · Bash Scripting · Kuberetes
 **Database** — MySQL · MongoDB  
 **Tools** — Git · GitHub · Maven · VS Code · IntelliJ IDEA  
+**Devops** - Linux · Ansible · AWS · Bash Scripting · Kuberetes  
 
 ---
 
