@@ -1,6 +1,6 @@
 ## Hi, I'm Vaibhav 👋
 
-I'm a Java Full Stack Developer from Noida, India — freshly out and building real things with real code.
+I'm a Java Full Stack Developer from Noida, India freshly out and building real things with real code.
 
 I work across the full stack: backend services in **Java + Spring Boot**, frontend UIs with **React.js**, and everything in between — REST APIs, MongoDB, MySQL, Docker basics.
 
@@ -10,8 +10,9 @@ I'm actively looking for **remote work, freelance projects, and full-time roles*
 
 ### 🛠 Tech Stack
 
-**Backend** — Java · Spring Boot · Spring MVC · Microservices · REST APIs · Hibernate  
-**Frontend** — React.js · HTML · CSS · JavaScript · Tailwind CSS  
+**Backend** — Java · Spring Boot · Spring MVC · Microservices · REST APIs · Spring AI  
+**Frontend** — React.js · HTML · CSS · JavaScript · Tailwind CSS 
+**Devops** - Linux,Ansible,AWS,Bash Scripting,Kuberetes
 **Database** — MySQL · MongoDB  
 **Tools** — Git · GitHub · Maven · VS Code · IntelliJ IDEA  
 
@@ -44,7 +45,7 @@ I'm actively looking for **remote work, freelance projects, and full-time roles*
 
 - **LinkedIn:** [linkedin.com/in/vaibhav-shekhar-028325228](https://www.linkedin.com/in/vaibhav-shekhar-028325228)
 - **Email:** shekharvaibhav6@gmail.com
-- **Portfolio:** *(add one when you have it — even a simple Vercel site counts)*
+- **Portfolio:** https://drive.google.com/file/d/1NvySGSuV8q2iYVu_yYVUD7FmVt--AyNi/view?usp=drive_link
 
 ---
 
