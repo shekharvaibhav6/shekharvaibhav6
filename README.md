@@ -43,7 +43,7 @@ I'm actively looking for **remote work, freelance projects, and full-time roles*
 ### 📬 Reach Me
 
 - **LinkedIn:** [linkedin.com/in/vaibhav-shekhar-028325228](https://www.linkedin.com/in/vaibhav-shekhar-028325228)
-- **Email:** your.email@gmail.com
+- **Email:** shekharvaibhav6@gmail.com
 - **Portfolio:** *(add one when you have it — even a simple Vercel site counts)*
 
 ---
