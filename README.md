@@ -11,7 +11,7 @@ I'm actively looking for **remote work, freelance projects, and full-time roles*
 ### 🛠 Tech Stack
 
 **Backend** — Java · Spring Boot · Spring MVC · Microservices · REST APIs · Spring AI  
-**Frontend** — React.js · HTML · CSS · JavaScript · Tailwind CSS 
+**Frontend** — React.js · HTML · CSS · JavaScript · Tailwind CSS  
 **Database** — MySQL · MongoDB  
 **Tools** — Git · GitHub · Maven · VS Code · IntelliJ IDEA  
 **Devops** - Linux · Ansible · AWS · Bash Scripting · Kuberetes  
