@@ -1,4 +1,10 @@
 ## Hi, I'm Vaibhav 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Microservices;Open+to+Remote+%26+Freelance+Roles)](https://git.io/typing-svg)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekharvaibhav6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shekharvaibhav6&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekharvaibhav6&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 I'm a Java Full Stack Developer from Noida, India freshly out and building real things with real code.
 
@@ -48,6 +54,9 @@ I'm actively looking for **remote work, freelance projects, and full-time roles*
 - **Portfolio:** https://drive.google.com/file/d/1NvySGSuV8q2iYVu_yYVUD7FmVt--AyNi/view?usp=drive_link
 
 ---
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekharvaibhav6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shekharvaibhav6&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 *If you have a project that needs a backend, a UI, or both — let's talk.*
 
