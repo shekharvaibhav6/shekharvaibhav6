@@ -18,7 +18,7 @@ I'm actively looking for **remote work, freelance projects, and full-time roles*
 **Frontend** — React.js · HTML · CSS · JavaScript · Tailwind CSS
 **Database** — MySQL · MongoDB
 **Tools** — Git · GitHub · Maven · VS Code · IntelliJ IDEA
-**DevOps** — Linux · Ansible · AWS · Bash Scripting · Kubernetes
+**DevOps** — Linux · Ansible · AWS · Bash Scripting · Kubernetes · Terraform
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -58,8 +58,8 @@ I'm actively looking for **remote work, freelance projects, and full-time roles*
 
 ### 📌 Currently
 
-- 🔨 Building: [what you're working on right now]
-- 📖 Learning: [e.g., Docker, AWS, system design — whatever's true]
+- 🔨 Building: Astrology Website
+- 📖 Learning: Expanding my Java Full-Stack skill set to include DevOps methodologies
 - 👀 Open to: Remote roles · Freelance gigs · Full-time positions (Noida/remote)
 
 ---
